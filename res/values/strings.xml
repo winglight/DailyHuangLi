@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Chinese Calendar</string>
+    <string name="today">Today</string>
+    <string name="search">Search</string>
+    <string name="backMain">I am sure!</string>
+    <string name="quitMain">Quit</string>
+    <string name="aboutTitle">Help</string>
+    <string name="pref_release_show">showRelease1.3</string>
+    <string name="pref_release_note">file:///android_asset/release_1.3.html</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="good">Good</string>
+    <string name="bad">Not Good</string>
+    <string name="yearValidate">Year should be between 2010 and 2018</string>
+    <string name="waitTitle">Update from the web</string>
+	<string name="wait">Still downloading the data, please wait a moment...</string>
+</resources>
